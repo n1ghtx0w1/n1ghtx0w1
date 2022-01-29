@@ -10,23 +10,27 @@
 
 ### Connect with me:
 
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />]
-[twitter]
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
+ 
+ [twitter]
 
 <br />
 
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />]
-[linkedin]
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
+ 
+ [linkedin]
+ 
+<br />
+
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tryhackme.svg" />
+ 
+ [tryhackme]
 
 <br />
 
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tryhackme.svg" />]
-[tryhackme]
-
-<br />
-
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hackthebox.svg" />]
-[hackthebox]
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hackthebox.svg" />
+ 
+ [hackthebox]
 
 <br /> 
 
