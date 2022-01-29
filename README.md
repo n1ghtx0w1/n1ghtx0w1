@@ -1,6 +1,6 @@
 ### Hi there, I'm Robert - *aka* *attacktheosi* [tryhackme] | [hackthebox] | [website]
 
-## I'm a poud dad of 3, work for a public safety software company, and love learning!
+**I'm a poud dad of 3, work for a public safety software company, and love learning!**
 
 - 🔭 I’m currently working on [ITIL4]
 - 🌱 I’m currently learning a lot everyday
