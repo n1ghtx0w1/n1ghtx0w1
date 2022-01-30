@@ -53,7 +53,6 @@
 <br />
 <br />
 
-[![Roberts's GitHub stats](https://vercel.com/n1ghtx0w1/github-readme-stats)](https://github.com/n1ghtx0w1/github-readme-stats)
 
 [website]: https://n1ghtx0w1.github.io
 [twitter]: https://twitter.com/attacktheosi
