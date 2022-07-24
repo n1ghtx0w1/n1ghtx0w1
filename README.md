@@ -5,9 +5,9 @@ _**Don't give up.  Remember that your goals may seem impossible, because of your
 
 <img align="right" src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" alt="CyberWar" width="600" height="300">
 
-- 🔭 I’m currently studying Project +
+- 🔭 I’m currently doing coding projects
 - 🌱 Learning to fly!
-- ⚡ Fun fact: I attend WGU, and love the Cyber Club!
+- ⚡ Fun fact: I enjoy learning!
 
 ### Connect with me:
 
