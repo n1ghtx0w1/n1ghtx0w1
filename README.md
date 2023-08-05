@@ -56,12 +56,12 @@ _**Don't give up.  Remember that your goals may seem impossible, because of your
 <br />
 <br />
 
-<a href="https://github.com/ankitwarbhe">
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1ghtx0w1&theme=dark">
-</a>
-<a href="https://github.com/ankitwarbhe">
+
+
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=n1ghtx0w1&show_icons=true&theme=dark&line_height=30" alt="n1ghtx0w1's github stats"/>
-</a>
+
 
 [website]: https://n1ghtx0w1.github.io
 [twitter]: https://twitter.com/attacktheosi
