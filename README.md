@@ -1,4 +1,4 @@
-### Hi there, I'm Robert - *aka* *attacktheosi* [tryhackme] | [hackthebox] | [website]
+### Hi there, I'm Robert - *aka* *attacktheosi* [tryhackme] | [website]
 
 
 _**Don't give up.  Remember that your goals may seem impossible, because of your current perspective.  Over time, as you grow, that perspective will change.  Those dreams will come into reach.  Keep going, and don't look back.**_
@@ -11,10 +11,6 @@ _**Don't give up.  Remember that your goals may seem impossible, because of your
 
 ### Connect with me:
 
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" />
-
-[twitter]
-
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />
  
 [linkedin]
@@ -22,10 +18,6 @@ _**Don't give up.  Remember that your goals may seem impossible, because of your
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tryhackme.svg" />
  
 [tryhackme]
-
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hackthebox.svg" />
-
-[hackthebox]
 
 <br />
 
@@ -63,10 +55,7 @@ _**Don't give up.  Remember that your goals may seem impossible, because of your
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=n1ghtx0w1&show_icons=true&theme=dark&line_height=30" alt="n1ghtx0w1's github stats"/>
 
 
-[website]: https://n1ghtx0w1.github.io
-[twitter]: https://twitter.com/attacktheosi
+[website]: https://www.headsec.blog
 [linkedin]: https://www.linkedin.com/in/robert-head-0x0
-[tryhackme]: https://tryhackme.com/p/attacktheosi
-[hackthebox]: https://app.hackthebox.com/profile/203937
-[ITIL4]: https://n1ghtx0w1.github.io/posts/itil4/
+[tryhackme]: https://tryhackme.com/p/Attacktheosi
 
