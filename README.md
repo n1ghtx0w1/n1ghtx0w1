@@ -1,13 +1,12 @@
 ### Hi there, I'm Robert - *aka* *attacktheosi* [tryhackme] | [website]
 
 
-_**Don't give up.  Remember that your goals may seem impossible, because of your current perspective.  Over time, as you grow, that perspective will change.  Those dreams will come into reach.  Keep going, and don't look back.**_
+_**Remember that your goals may seem impossible, because of your current perspective.  Over time, as you grow, that perspective will change.  Those dreams will come into reach.  Keep going, and don't look back.**_
 
 <img align="right" src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" alt="CyberWar" width="600" height="300">
 
-- 🔭 I’m currently doing coding projects
-- 🌱 Learning to fly!
-- ⚡ Fun fact: I enjoy learning!
+- 🔭 I enjoy development projects & security
+- ⚡ Fun fact: I was a police officer in my first life
 
 ### Connect with me:
 
