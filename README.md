@@ -1,7 +1,7 @@
 ### Hi there, I'm Robert - *aka* *n1ghtx0w1* [tryhackme] | [website]
 
 
-_**Remember that your goals may seem impossible, because of your current perspective.  Over time, as you grow, that perspective will change.  Those dreams will come into reach.  Keep going, and don't look back.**_
+_**Working keeps the brain activity flowing!**_
 
 <img align="right" src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" alt="CyberWar" width="600" height="300">
 
