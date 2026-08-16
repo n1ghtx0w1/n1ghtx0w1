@@ -12,5 +12,5 @@ _**Working keeps the brain activity flowing!**_
 
 [website]: https://www.headsec.blog
 [linkedin]: https://www.linkedin.com/in/robert-head-0x0
-[tryhackme]: https://tryhackme.com/p/Attacktheosi
+[tryhackme]: https://tryhackme.com/p/headsec
 
