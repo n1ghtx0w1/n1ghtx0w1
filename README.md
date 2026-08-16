@@ -1,4 +1,4 @@
-### Hi there, I'm Robert - *aka* *n1ghtx0w1* [tryhackme] | [website]
+### Hi there, welcome to my github.  Also checkout -> [tryhackme] | [website] | [linkedin]
 
 
 _**Working keeps the brain activity flowing!**_
@@ -6,7 +6,7 @@ _**Working keeps the brain activity flowing!**_
 <img align="right" src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" alt="CyberWar" width="600" height="300">
 
 - 🔭 I enjoy development projects & security
-- ⚡ Fun fact: I was a police officer in my first life
+- ⚡ I'm always working on a homelab project
 
 ### Connect with me:
 
